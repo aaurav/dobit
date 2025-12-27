@@ -15,3 +15,5 @@ git clone https://github.com/<your-username>/dobit.git
 cd dobit
 cargo build --release
 
+⚠️ This project is under active development.
+No releases are available yet.
